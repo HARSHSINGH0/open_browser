@@ -1,0 +1,3 @@
+import os
+#os.system('<website you  want>') example below:
+os.system('start www.google.com')
